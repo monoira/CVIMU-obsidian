@@ -4,6 +4,8 @@
 
 [![showcase demo](https://img.youtube.com/vi/WKdamXhwruE/maxresdefault.jpg)](https://www.youtube.com/watch?v=WKdamXhwruE)
 
+After you clone git repository, remove `.git` and README.md.
+
 ## keybindings
 
 | command          | description                            |
