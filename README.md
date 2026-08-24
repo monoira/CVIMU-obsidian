@@ -10,7 +10,6 @@
 | ctrl f2          | rename a heading                       |
 | ctrl o           | fuzzy search files                     |
 | ctrl p           | command prompt                         |
-| ctrl shift f     | find across files                      |
 | ctrl l           | checkbox                               |
 | ctrl alt b       | bold                                   |
 | ctrl i           | italic                                 |
