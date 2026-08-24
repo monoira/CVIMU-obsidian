@@ -1,5 +1,9 @@
 # CVIMU-obsidian
 
+## showcase video on Youtube
+
+[![showcase demo](https://img.youtube.com/vi/WKdamXhwruE/maxresdefault.jpg)](https://www.youtube.com/watch?v=WKdamXhwruE)
+
 ## keybindings
 
 | command          | description                            |
