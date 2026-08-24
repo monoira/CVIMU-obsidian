@@ -1,0 +1,5 @@
+.suggestion-item.is-selected .qsp-breadcrumb,
+.suggestion-item.is-active .qsp-breadcrumb,
+.suggestion-item[aria-selected="true"] .qsp-breadcrumb {
+  color: rgb(var(--ctp-crust));
+}

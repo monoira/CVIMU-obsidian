@@ -1,0 +1,27 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      not:
+        - file.inFolder("tags")
+        - file.inFolder("templates")
+        - file.name == "main"
+        - file.basename == "base"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - sources
+      - tags
+    sort:
+      - property: sources
+        direction: ASC
+      - property: tags
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 397
+      note.sources: 265
+      note.tags: 338

@@ -1,0 +1,4 @@
+# travel destinations
+
+- Spain
+- Japan

@@ -1,0 +1,6 @@
+---
+sources:
+tags:
+---
+
+{{content}}

@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 16,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "quickswitcher-fix"
+  ]
+}
