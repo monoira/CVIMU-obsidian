@@ -51,16 +51,13 @@
     "16": true
   },
   "selectNearestHeading": true,
-  "excludeFolders": [
-    "templates",
-    "tags"
-  ],
+  "excludeFolders": [],
   "excludeLinkSubTypes": 0,
   "excludeRelatedFolders": [
     ""
   ],
   "excludeOpenRelatedFiles": false,
-  "excludeObsidianIgnoredFiles": false,
+  "excludeObsidianIgnoredFiles": true,
   "shouldSearchFilenames": false,
   "shouldSearchBookmarks": false,
   "shouldSearchRecentFiles": true,

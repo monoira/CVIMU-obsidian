@@ -34,5 +34,9 @@
     "downscalePercent": 100
   },
   "spellcheck": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "userIgnoreFilters": [
+    "tags/",
+    "templates/"
+  ]
 }
