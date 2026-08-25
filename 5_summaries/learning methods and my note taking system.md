@@ -39,7 +39,7 @@ This uses mostly spaced repetition, with some active recall.
 Its also important to write down **summaries**, don't just copy and paste what you read, higher brain usage = more memorization.
 
 use **bold** for things you want highlightend.
-use ticks for file and directory names like `src` or `auth.module.ts`.
+use ticks for file and directory names like `auth.module.ts` or `src`.
 use ticks for server URLs like `/v1/users`.
 
 ## SyncThing workflow
