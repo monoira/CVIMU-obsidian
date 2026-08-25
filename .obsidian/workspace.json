@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "692641ea2aa93f4f",
+        "id": "ed36fbeb10720ded",
         "type": "tabs",
         "children": [
           {
-            "id": "f5fb519fec7fecb6",
+            "id": "e71f415931123c6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "main.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "main"
+              "title": "New tab"
             }
           }
         ]
@@ -119,17 +114,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": true,
+      "darlal-switcher-plus:Open Symbols for the active editor": true,
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "bases:Create new base": true,
-      "darlal-switcher-plus:Open in Headings Mode": true,
-      "darlal-switcher-plus:Open Symbols for the active editor": true
+      "bases:Create new base": true
     }
   },
-  "active": "f5fb519fec7fecb6",
+  "active": "085e55631f4e5e59",
   "lastOpenFiles": [
+    "main.md",
+    "5_summaries/learning methods and my note taking system.md",
+    "notes/travel destinations.md",
     "base.base",
     "README.md",
     "7_summaries-books/The War Of Art - Steven Pressfield.md"

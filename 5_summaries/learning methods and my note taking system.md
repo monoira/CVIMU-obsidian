@@ -51,8 +51,6 @@ use ticks for server URLs like `/v1/users`.
        │
   personal/vault
        │
-  personal/songs
-       │
 ┌──────▼──────┐
 │   Fedora    │
 └──────┬──────┘
