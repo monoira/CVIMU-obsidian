@@ -2,7 +2,7 @@
 
 ## showcase video on Youtube
 
-[![showcase demo](https://img.youtube.com/vi/EzupzUjO1ko/maxresdefault.jpg)](https://www.youtube.com/watch?v=EzupzUjO1ko)
+[![showcase demo](https://img.youtube.com/vi/vmmYfu7hjV8/maxresdefault.jpg)](https://www.youtube.com/watch?v=vmmYfu7hjV8)
 
 After you clone git repository, remove `.git` and `README.md`.
 
