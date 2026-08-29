@@ -18,6 +18,10 @@ nmap <Space>/ :quicksearch<CR>
 exmap searchreplace obcommand editor:open-search-replace
 nmap <Space>sr :searchreplace<CR>
 
+" center cursor with ctrl+u and ctrl+d
+noremap <C-u> <C-u>zz
+noremap <C-d> <C-d>zz
+
 " GOTOs
 exmap followlink obcommand editor:follow-link
 nmap gd :followlink<CR>
