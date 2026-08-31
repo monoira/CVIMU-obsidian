@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed36fbeb10720ded",
+        "id": "b0467128ee012421",
         "type": "tabs",
         "children": [
           {
-            "id": "e71f415931123c6e",
+            "id": "bc1796c8c87fab5c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -114,22 +114,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "darlal-switcher-plus:Open in Headings Mode": true,
-      "darlal-switcher-plus:Open Symbols for the active editor": true,
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "bases:Create new base": true
+      "bases:Create new base": true,
+      "darlal-switcher-plus:Open in Headings Mode": true,
+      "darlal-switcher-plus:Open Symbols for the active editor": true
     }
   },
-  "active": "085e55631f4e5e59",
+  "active": "bc1796c8c87fab5c",
   "lastOpenFiles": [
+    "README.md",
     "main.md",
     "5_summaries/learning methods and my note taking system.md",
     "notes/travel destinations.md",
     "base.base",
-    "README.md",
     "7_summaries-books/The War Of Art - Steven Pressfield.md"
   ]
 }

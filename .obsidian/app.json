@@ -38,5 +38,6 @@
   "userIgnoreFilters": [
     "tags/",
     "templates/"
-  ]
+  ],
+  "useTab": false
 }
