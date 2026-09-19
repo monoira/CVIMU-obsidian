@@ -45,3 +45,7 @@ nmap za :togglefold<CR>
 
 exmap unfoldall obcommand editor:unfold-all
 nmap zR :unfoldall<CR>
+
+" FIXES
+" make visual P preserve the register, like Neovim
+vnoremap P Pgvy
