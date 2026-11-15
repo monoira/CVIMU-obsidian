@@ -3,3 +3,17 @@
 .suggestion-item[aria-selected="true"] .qsp-breadcrumb {
   color: rgb(var(--ctp-crust));
 }
+
+/* Quick Switcher++ flair badge (BASE, CANVAS, etc.) */
+.suggestion-item .qsp-suggestion-flair,
+.suggestion-item .suggestion-flair {
+  color: var(--ctp-text, #cdd6f4);
+  background-color: var(--ctp-surface0, #313244);
+}
+
+/* Selected row: the row is light, so keep the badge dark with light text */
+.suggestion-item.is-selected .qsp-suggestion-flair,
+.suggestion-item.is-selected .suggestion-flair {
+  color: var(--ctp-text, #cdd6f4);
+  background-color: var(--ctp-crust, #11111b);
+}

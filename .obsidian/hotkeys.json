@@ -164,7 +164,8 @@
   "darlal-switcher-plus:switcher-plus:open-commands": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "P"
     }
