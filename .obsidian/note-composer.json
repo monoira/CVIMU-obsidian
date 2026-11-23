@@ -1,5 +1,5 @@
 {
   "askBeforeMerging": true,
   "replacementText": "none",
-  "template": "templates/template for composer"
+  "template": "templates/template for composer.md"
 }

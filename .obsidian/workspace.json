@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b0467128ee012421",
+        "id": "5e6c2bbc5ed834b1",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1796c8c87fab5c",
+            "id": "d554a1e123247b87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "main.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "main"
             }
           }
         ]
@@ -82,27 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_programming/auth.md",
+                "file": "main.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
-            }
-          },
-          {
-            "id": "b4a7184ed5cd8c31",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
             }
           }
         ]
@@ -123,13 +114,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": true
     }
   },
-  "active": "bc1796c8c87fab5c",
+  "active": "d554a1e123247b87",
   "lastOpenFiles": [
-    "README.md",
-    "main.md",
-    "5_summaries/learning methods and my note taking system.md",
-    "notes/travel destinations.md",
     "base.base",
+    "notes/travel destinations.md",
+    "6_summaries-atomic/first-mover advantage.md",
+    "main.md",
+    "README.md",
+    "5_summaries/learning methods and my note taking system.md",
     "7_summaries-books/The War Of Art - Steven Pressfield.md"
   ]
 }

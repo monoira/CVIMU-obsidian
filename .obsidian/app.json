@@ -39,5 +39,7 @@
     "tags/",
     "templates/"
   ],
-  "useTab": false
+  "useTab": false,
+  "showIndentGuide": true,
+  "settingsPopoutWindow": false
 }

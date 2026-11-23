@@ -11,8 +11,14 @@ nmap <Space>ss :symbolsactive<CR>
 exmap symbolsall obcommand darlal-switcher-plus:switcher-plus:open-headings
 nmap <Space>sS :symbolsall<CR>
 
+exmap outline obcommand outline:open
+nmap <Space>e :outline<CR>
+
 exmap quicksearch obcommand global-search:open
 nmap <Space>/ :quicksearch<CR>
+
+exmap switchvault obcommand darlal-switcher-plus:switcher-plus:open-vaults
+nmap <Space>fp :switchvault<CR>
 
 " search and replace in current file
 exmap searchreplace obcommand editor:open-search-replace

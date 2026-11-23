@@ -39,7 +39,6 @@ After you clone git repository, remove `.git` and `README.md`.
 | z a              | toggle fold                            |
 | z R              | unfold all                             |
 
-
 ## check out my other project CVIMU - VSCode setup with Vim keybindings, Firefox-like tab and terminal management
 
 [https://github.com/monoira/CVIMU](https://github.com/monoira/CVIMU)
@@ -47,9 +46,9 @@ After you clone git repository, remove `.git` and `README.md`.
 ## DONATE
 
 I've been creating FOSS / GNU/Linux / nvim / web
-related software for some time now.  
+related software for some time now.
 If you used, forked or took code from one of my projects and you
-would like to support me 👍,  
+would like to support me 👍,
 you can donate here:
 
 | type                | address                                    |

@@ -22,6 +22,6 @@ views:
       - property: file.mtime
         direction: DESC
     columnSize:
-      file.name: 397
+      file.name: 295
       note.sources: 265
-      note.tags: 338
+      note.tags: 276
