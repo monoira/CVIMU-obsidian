@@ -15,8 +15,9 @@ After you clone git repository, remove `.git` and `README.md`.
 | space s S        | Search Symbols (global headings)       |
 | space s r        | search and replace in the current file |
 | space /          | search across all files                |
+| space e          | outline                                |
 | ctrl o           | fuzzy search files                     |
-| ctrl p           | command prompt                         |
+| ctrl shift p     | command prompt                         |
 | ctrl l           | checkbox                               |
 | ctrl alt b       | bold                                   |
 | ctrl i           | italic                                 |
